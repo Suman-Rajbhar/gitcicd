@@ -14,4 +14,4 @@ jobs:
         server: ftp.bdwebpro.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_userpassword }}
-        server-dir: /public_html/bdwebpro/
+        server-dir: /public_html/
