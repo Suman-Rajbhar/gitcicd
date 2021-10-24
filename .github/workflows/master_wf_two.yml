@@ -1,5 +1,5 @@
 on: push
-name: 🚀 Deploy workflow master
+name: 🚀 Deploy workflow master wf2
 jobs:
   web-deploy:
     name: 🎉 Deploy
